@@ -8,8 +8,6 @@ h1 {
   font-family: "Pacifico", cursive;
   height: 400px;
   background-image: url("lemonade.jpg");
-  border-top: 4px solid black;
-  border-bottom: 4px solid black;
 }
 .banner .slogan {
   position: absolute;
